@@ -1,17 +1,3 @@
-👋 Hi, I'm Rabinson — a passionate MSc Data Science student at SDU in Denmark.
-
-📊 I enjoy working with data to discover insights and build solutions. My interests include machine learning, data visualization, web scraping, and cloud-based AI tools.
-
-🧠 Currently working on academic and personal projects using Python, SQL, and R — and always learning something new!
-
-💡 Looking for internship and student job opportunities where I can apply and grow my skills in real-world data projects.
-
-📂 Explore my repositories to see some of my work!
-
-📫 Reach me at: rabinsonpariyar16@gmail.com
-
-📸 Instagram: https://www.instagram.com/rabinson.pyr/
-
 # 💫 About Me:
 👋 Hi, I'm Rabinson — a passionate MSc Data Science student at SDU in Denmark.<br><br>📊 I enjoy working with data to discover insights and build solutions. My interests include machine learning, data visualization, web scraping, and cloud-based AI tools.<br><br>🧠 Currently working on academic and personal projects using Python, SQL, and R — and always learning something new!<br><br>💡 Looking for internship and student job opportunities where I can apply and grow my skills in real-world data projects.<br><br>📂 Explore my repositories to see some of my work!<br><br>📫 Reach me at: rabinsonpariyar16@gmail.com<br><br>📸 Instagram: https://www.instagram.com/rabinson.pyr/
 
